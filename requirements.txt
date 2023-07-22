@@ -7,4 +7,10 @@ flask_sqlalchemy==2.5.1
 flask_wtf==0.14.3
 scikit_learn==0.24.1
 WTForms==2.3.3
+jinja2==2.11.3
 gunicorn
+markupsafe==2.0.1
+itsdangerous==2.0.1
+pandas
+sqlalchemy==1.4.22
+email-validator
